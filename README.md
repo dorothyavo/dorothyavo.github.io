@@ -1,12 +1,13 @@
-# Data Scientist
+# Hi, I'm Dorothy 👋
 
-### Skills
+I'm a data science grad student at Harvard with a background in business. I love turning messy data into useful insights. My current interests include time series forecasting, model development, and building educational tools.
 
+### 📌 Featured Projects
+- [📈 Time Series EDA in R](https://github.com/dorothyavo/timeseries-eda)
+- [🤖 Titanic Survival ML Models](https://github.com/dorothyavo/titanic-ml)
+- [✍️ BetterLetter: Handwriting Improvement App](https://github.com/dorothyavo/betterletter)
 
-### Education
+### 🧰 Tools & Skills
+Python, R, SQL, scikit-learn, ggplot2, Shiny, Streamlit, Tableau, Git, Markdown
 
-
-### Work Experience
-
-
-### Projects
+Let’s connect on [LinkedIn]([(https://www.linkedin.com/in/dorothy-vo-7005aa344/])
