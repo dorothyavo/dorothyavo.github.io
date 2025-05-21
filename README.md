@@ -10,4 +10,4 @@ I'm a data science grad student at Harvard with a background in business. I love
 ### 🧰 Tools & Skills
 Python, R, SQL, scikit-learn, ggplot2, Shiny, Streamlit, Tableau, Git, Markdown
 
-Let’s connect on [LinkedIn]([https://www.linkedin.com/in/dorothy-vo-7005aa344/])
+Let’s connect on [LinkedIn](https://www.linkedin.com/in/dorothy-vo-7005aa344/)
